@@ -1,7 +1,7 @@
 # Outlast All_Persistent
 # What is it?
 
-This is a map for the game Outlast, loading the entire location
+This is a map for the game Outlast, loading the entire location \
 Part: **Original Outlast Only**
 
 # How install this?
@@ -15,7 +15,7 @@ Need Outlast: **https://store.steampowered.com/app/238320/Outlast**
 
 4. Drop All_Persistent.udk in [Outlast Dir]\OLGame\CookedPCConsole\Custom
 
-5. Type in Level_Launcher.bat command line: open [Map name without .udk]
+5. Type in Level_Launcher.bat command line: open [Map name without .udk] \
    Example: open All_Persistent
 
 6. Start Outlast (Automatically after you press enter).
